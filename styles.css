@@ -13,6 +13,7 @@ div.right {
     justify-content: space-between;
     padding: 0% 2%;
     background-color: white;
+  
 }
 nav{
 
@@ -21,6 +22,11 @@ nav{
 li {
     display: inline-flex;
     cursor: pointer;
+}
+
+li:hover{
+    color: orange;
+    text-decoration: underline orange;
 }
 
 ul {
@@ -88,6 +94,7 @@ img.image{
 }
 
 h3{
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+    font-family:
+    'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 
 }
